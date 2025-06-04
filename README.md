@@ -39,12 +39,10 @@
 ---
 
 ## 🛠️ Tools & Libraries Used
-
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
-
 ---
